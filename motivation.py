@@ -1,4 +1,4 @@
-#Este progrma lo vimos el 21 de enero 2026 como motivación del curso de Optativa
+#Este programa lo vimos el 21 de enero 2026 como motivación del curso de Optativa
 import random
 
 def generate_random_list(length, min_val=-10, max_val=10):
